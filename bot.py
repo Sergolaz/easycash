@@ -38,8 +38,8 @@ logger = setup_logging()
 # ======= КОНФИГ ==========
 TOKEN = "7640066117:AAE9YxmQylPm2F63BOjEn8vxMQHfNLKvB7A"
 ADMIN_ID = 752119100
-WELCOME_IMAGE = BASE_DIR / "welcome.png"
-SIGNAL_IMAGE = BASE_DIR / "signal.png"
+WELCOME_IMAGE = BASE_DIR / "images\welcome.png"
+SIGNAL_IMAGE = BASE_DIR / "images\welcome.png"
 
 bot_stats = {
     "total_users": set(),
